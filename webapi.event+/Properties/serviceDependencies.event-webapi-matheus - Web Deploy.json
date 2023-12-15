@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/event-webapi-matheus/apis/event-webapi-matheus",
+      "type": "apis.azure"
+    }
+  }
+}
